@@ -4,3 +4,4 @@ resources:
 - cert-manager.yaml
 - tekton.yaml
 - mopidy.yaml
+- hifiberry-auto-config.yaml
