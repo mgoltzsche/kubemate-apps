@@ -1,6 +1,5 @@
 namespace: kubemate
 resources:
-- dummyapp.yaml
 - cert-manager.yaml
 - tekton.yaml
 - mopidy.yaml
