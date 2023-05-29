@@ -1,4 +1,4 @@
 namespace: kubemate
 resources:
-- github.com/mgoltzsche/mopidy-container.git/deploy/app?ref=v0.6.3
+- github.com/mgoltzsche/mopidy-container.git/deploy/app?ref=v0.7.0
 
