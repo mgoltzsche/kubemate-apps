@@ -4,3 +4,4 @@ resources:
 - tekton.yaml
 - mopidy.yaml
 - hifiberry-auto-config.yaml
+- beets.yaml

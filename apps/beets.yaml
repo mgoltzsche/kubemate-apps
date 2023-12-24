@@ -1,0 +1,10 @@
+apiVersion: apps.kubemate.mgoltzsche.github.com/v1alpha1
+kind: App
+metadata:
+  name: beets
+spec:
+  kustomization:
+    sourceRef:
+      kind: GitRepository
+      name: kubemate-apps
+    path: ./config/beets
