@@ -2,6 +2,7 @@ namespace: kubemate
 resources:
 - cert-manager.yaml
 - tekton.yaml
+- snapcast.yaml
 - mopidy.yaml
 - hifiberry-auto-config.yaml
 - beets.yaml
